@@ -3,14 +3,18 @@ apt update && apt upgrade -y
 
 apt install git
 
-apt install tolait
-
-git clone https://github.com/aungmoemy/Hacking-Links
-
-cd Hacking-Links
+git clone https://github.com/aungmoemy/Hacking-Websites
 
 ls
 
-chmod 777 Links.sh
+cd Hacking-Websites
+
+ls
+
+chmod 777 Install.sh Links.sh Videos.sh
+
+sh Install.sh
 
 sh Links.sh
+
+sh  Videos.sh
