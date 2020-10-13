@@ -11,10 +11,8 @@ cd Hacking-Websites
 
 ls
 
-chmod 777 Install.sh Links.sh Videos.sh
+chmod 777 Install.sh Links.sh
 
 sh Install.sh
 
 sh Links.sh
-
-sh  Videos.sh
