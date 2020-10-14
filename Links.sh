@@ -12,7 +12,7 @@ clear
 echo '\033[31;1m━━━━━━━ ★ ━━━━━━━\033[0m'
 echo "\033[32;1mHacking Websits\033[0m"
 echo '\033[31;1m━━━━━━━ ★ ━━━━━━━\033[0m'
-printf "\033[32;2m
+printf "\033[35;1m
 01.Celltracker-Spy         07.10-Minute-Mail
 02.Wifi-Qrcode-Carck       08.Crack-Station
 03.Z-Shadow-Facebook       09.Md5
